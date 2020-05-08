@@ -50,7 +50,7 @@ You should at least edit the `_config.yml` file to edit your website's metadata,
 
 ### Change your theme
 
-This website uses the [Minty](https://bootswatch.com/minty/) Bootstrap theme by default. And you don't want to use the same theme everyone else uses do you?
+This website uses no Bootstrap theme by default. And you don't want to use the same theme everyone else uses do you?
 
 You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
 
